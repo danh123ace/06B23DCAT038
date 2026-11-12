@@ -1,0 +1,16 @@
+# Maven and Java build output
+**/target/
+*.class
+*.war
+*.log
+
+# Local IDE and operating-system files
+.vscode/
+**/.DS_Store
+**/Thumbs.db
+
+# Local secrets and backups
+.env
+.env.*
+*.bak
+*.sql.bak
